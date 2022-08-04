@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="2LktlYHF214AYPnqE9fiOmFELxw_A36QZ0bMeoS5de0" />
 <p align="left">
 <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://user-images.githubusercontent.com/48277853/169710363-2290dc10-e0b5-42df-80f5-ca610c13c6e7.png" alt="HTML5" style="width:42px;height:42px;"></a>
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://user-images.githubusercontent.com/48277853/169710467-a11e9de1-57e2-468b-9864-35d10555d7fd.png" alt="CSS3" style="width:42px;height:42px;"></a>  
