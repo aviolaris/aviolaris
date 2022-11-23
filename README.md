@@ -36,4 +36,4 @@
 </tr>
 </table>
 
-![](https://komarev.com/ghpvc/?username=aviolaris)
+[comment]: ![](https://komarev.com/ghpvc/?username=aviolaris)
